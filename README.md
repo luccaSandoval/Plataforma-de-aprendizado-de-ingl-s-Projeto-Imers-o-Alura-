@@ -1,1 +1,3 @@
-# Plataforma-de-aprendizado-de-ingl-s-Projeto-Imers-o-Alura-
+Nome do site: Speakly
+----------------------------
+Plataforma de aprendizado de inglês, projetada para proporcionar uma experiência educativa, eficaz e adaptativa
